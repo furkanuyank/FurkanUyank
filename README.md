@@ -18,15 +18,13 @@
 
 <h3 align="left">About Me</h3>
 
-###
 
-<p align="left">I'm third grade Computer Science student at Gazi University<br><br>I am interested in cloud, distributed systems and infrastructure</p>
-
-###
+<li  align="left"> I'm third grade Computer Science student at Gazi University</li>
+<li  align="left"> I am interested in cloud, distributed systems and infrastructure</li>
+<br>
 
 <h3 align="left">Language</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -43,12 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
 </div>
-
-###
+<br>
 
 <h3 align="left">Tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
