@@ -20,7 +20,6 @@
 
 
 <li  align="left"> I'm third grade Computer Science student at Gazi University</li>
-<li  align="left"> I am interested in cloud, distributed systems and infrastructure</li>
 <br>
 
 <h3 align="left">Language</h3>
