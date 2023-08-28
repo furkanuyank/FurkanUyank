@@ -22,7 +22,7 @@
 <li  align="left"> I'm third grade Computer Science student at Gazi University</li>
 <br>
 
-<h3 align="left">Language</h3>
+<h3 align="left">Languages</h3>
 
 
 <div align="left">
