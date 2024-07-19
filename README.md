@@ -19,7 +19,7 @@
 <h3 align="left">About Me</h3>
 
 
-<li  align="left"> I'm third grade Computer Science student at Gazi University</li>
+<li  align="left"> I'm fourth grade Computer Science student at Gazi University</li>
 <br>
 
 <h3 align="left">Languages</h3>
